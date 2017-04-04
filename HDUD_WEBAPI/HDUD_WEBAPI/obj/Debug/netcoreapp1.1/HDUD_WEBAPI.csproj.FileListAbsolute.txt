@@ -1,0 +1,9 @@
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\bin\Debug\netcoreapp1.1\HDUD_WEBAPI.deps.json
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\bin\Debug\netcoreapp1.1\HDUD_WEBAPI.runtimeconfig.json
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\bin\Debug\netcoreapp1.1\HDUD_WEBAPI.runtimeconfig.dev.json
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\bin\Debug\netcoreapp1.1\HDUD_WEBAPI.dll
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\obj\Debug\netcoreapp1.1\HDUD_WEBAPI.csprojResolveAssemblyReference.cache
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\obj\Debug\netcoreapp1.1\HDUD_WEBAPI.AssemblyInfo.cs
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\bin\Debug\netcoreapp1.1\HDUD_WEBAPI.pdb
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\obj\Debug\netcoreapp1.1\HDUD_WEBAPI.dll
+G:\HDUD\HDUD_WEBAPI\HDUD_WEBAPI\obj\Debug\netcoreapp1.1\HDUD_WEBAPI.pdb
